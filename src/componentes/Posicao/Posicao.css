@@ -1,0 +1,20 @@
+.posicao {
+    text-align: center;
+    padding: 32px;
+}
+
+.posicao h3 {
+    font-size: 32px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+/* Container dos cards */
+.jogadores-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 32px;
+    margin-top: 32px;
+}
